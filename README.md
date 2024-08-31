@@ -92,6 +92,3 @@ For questions or support, please open an issue on this GitHub repository or cont
 
 ---
 
-Happy experimenting and optimizing your 4G/5G reception! 🌟
-
-[Back to top](#diy-optimizing-4g5g-reception-with-a-vivaldi-antipodal-antenna)
