@@ -1,7 +1,5 @@
 # Optimizing 4G/5G Reception with a Vivaldi Antipodal Antenna
 
-![Project Banner](https://example.com/project-banner.png)
-
 <p align="center">
     <img src="https://img.shields.io/badge/language-CAD-%23ff5722.svg?style=for-the-badge&logo=autodesk" alt="CAD">
     <img src="https://img.shields.io/badge/format-DXF-blue.svg?style=for-the-badge&logo=autodesk" alt="DXF">
@@ -18,6 +16,10 @@ This repository contains resources for building a Vivaldi antipodal antenna desi
 - **DXF Files**: Detailed 2D design files for PCB fabrication.
 - **STL Files**: 3D models for printing the antenna support structures.
 - **Simulation Files**: Data and configurations from CST Studio used to optimize the antenna design.
+
+
+https://github.com/user-attachments/assets/b94765ee-239b-4bad-9be8-50f85a0472b5
+
 
 ## :rocket: Getting Started
 
