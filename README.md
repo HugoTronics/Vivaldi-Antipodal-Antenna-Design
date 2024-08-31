@@ -11,6 +11,26 @@
 
 This repository contains resources for building a Vivaldi antipodal antenna designed to optimize 4G/5G signal reception. The project explores the design, simulation, fabrication, and testing of this antenna. You'll find DXF files for antenna designs, STL files for 3D-printed supports, and simulation files used during the design phase.
 
+## :link: Explore the Full Project
+
+For a detailed walkthrough of the project, including step-by-step design, simulation, and testing of the Vivaldi antipodal antenna, check out the full article:
+
+<p align="center">
+    <a href="https://hugotronics.github.io/diy-optimizing-4g/5g-reception-with-a-vivaldi-antipodal-antenna/#analysis-of-results" target="_blank">
+        <img src="https://img.shields.io/badge/Read%20the%20Full%20Article-%230084ff.svg?style=for-the-badge&logo=read-the-docs" alt="Read the Full Article">
+    </a>
+</p>
+
+This article includes:
+
+- **In-depth Design Process**: Understanding the choices behind the Vivaldi antipodal antenna.
+- **Simulation Insights**: Detailed results and optimization tips.
+- **Fabrication Guide**: Step-by-step instructions to build and assemble the antenna.
+- **Performance Testing**: Real-world tests and improvements.
+
+Don’t miss the chance to dive deeper into the project and enhance your understanding of antenna design!
+
+
 ### Features
 
 - **DXF Files**: Detailed 2D design files for PCB fabrication.
