@@ -1,6 +1,4 @@
-# Vivaldi-Antipodal-Antenna-Design
-Open Source Vivaldi Antipodal Antenna Design for 4G/5G Application
-# DIY: Optimizing 4G/5G Reception with a Vivaldi Antipodal Antenna
+# Optimizing 4G/5G Reception with a Vivaldi Antipodal Antenna
 
 ![Project Banner](https://example.com/project-banner.png)
 
