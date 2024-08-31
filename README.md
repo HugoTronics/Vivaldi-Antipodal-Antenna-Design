@@ -26,18 +26,21 @@ https://github.com/user-attachments/assets/b94765ee-239b-4bad-9be8-50f85a0472b5
 ### Files Included
 
 1. **DXF Files**: 
-   - `Vivaldi_Antipodal_Design.dxf`: Base design of the antenna for PCB milling.
+    - `Antenna\DXF\BOT`: Bottom design of the antenna for PCB milling.
+    - `Antenna\DXF\TOP`: Top design of the antenna for PCB milling.
+    - `Antenna\DXF\EDGE`: Border design of the antenna for PCB milling.
 
 2. **STL Files**:
-   - `Antenna_Support.stl`: 3D model for the support structure of the antenna.
+    - `Antenna Case\STL-SOLIDWORK\Vivaldi_Antenna_Enclosure`: 3D model for the support structure of the antenna.
+    - `Antenna Case\STL-SOLIDWORK\Vivaldi_Antenna_Cover`: 3D model for the support structure of the antenna.
 
 3. **Simulation Files**:
-   - `Antenna_Simulation.cst`: CST Studio simulation files used to test and optimize the antenna performance.
+   - `CST Studio design\Vivaldi_Antenna.cst`: CST Studio simulation files used to test and optimize the antenna performance.
 
 ### How to Use
 
 1. **Download the Files**:
-   - Clone this repository or download the files directly from the [GitHub repository](https://github.com/your-repo-link).
+   - Clone this repository or download the files directly from the [GitHub repository](https://github.com/HugoTronics/Vivaldi-Antipodal-Antenna-Design).
 
 2. **Open DXF Files**:
    - Use a CAD software like AutoCAD or Fusion 360 to view and modify the DXF files for PCB manufacturing.
