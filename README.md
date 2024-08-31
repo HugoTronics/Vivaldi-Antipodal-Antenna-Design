@@ -82,13 +82,14 @@ This repository contains resources for building a Vivaldi antipodal antenna desi
 
 ## :mailbox: Contact and Support
 
-For questions or support, please open an issue on this GitHub repository or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or support, please open an issue on this GitHub repository or contact [corsahu@gmail.com](mailto:corsahu@gmail.com).
 
 ## :book: Additional Resources
 
-- [Antenna Design Basics](https://example.com/antenna-design)
-- [3D Printing Resources](https://example.com/3d-printing)
-- [CST Studio Documentation](https://example.com/cst-docs)
+- [Antenna Design Basics](https://www.wikihow.com/Design-a-Simple-Antenna)
+- [Antenna Design Vivaldi Antipodal](https://www.changpuak.ch/electronics/Antipodal_Vivaldi_Antenna_Designer.php)
+- [3D Printing Resources](https://www.solidworks.com/fr)
+- [CST Studio Documentation](https://www.3ds.com/fr/produits-et-services/simulia/produits/cst-studio-suite/)
 
 ---
 
