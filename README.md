@@ -9,7 +9,7 @@
 
 ## :open_book: Project Overview
 
-This repository contains resources for building a Vivaldi antipodal antenna designed to optimize 4G/5G signal reception. The project explores the design, simulation, fabrication, and testing of this high-performance antenna. You'll find DXF files for antenna designs, STL files for 3D-printed supports, and simulation files used during the design phase.
+This repository contains resources for building a Vivaldi antipodal antenna designed to optimize 4G/5G signal reception. The project explores the design, simulation, fabrication, and testing of this antenna. You'll find DXF files for antenna designs, STL files for 3D-printed supports, and simulation files used during the design phase.
 
 ### Features
 
