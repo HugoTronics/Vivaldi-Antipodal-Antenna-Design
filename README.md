@@ -11,6 +11,17 @@
 
 This repository contains resources for building a Vivaldi antipodal antenna designed to optimize 4G/5G signal reception. The project explores the design, simulation, fabrication, and testing of this antenna. You'll find DXF files for antenna designs, STL files for 3D-printed supports, and simulation files used during the design phase.
 
+
+### Features
+
+- **DXF Files**: Detailed 2D design files for PCB fabrication.
+- **STL Files**: 3D models for printing the antenna support structures.
+- **Simulation Files**: Data and configurations from CST Studio used to optimize the antenna design.
+
+
+https://github.com/user-attachments/assets/b94765ee-239b-4bad-9be8-50f85a0472b5
+
+
 ## :link: Explore the Full Project
 
 For a detailed walkthrough of the project, including step-by-step design, simulation, and testing of the Vivaldi antipodal antenna, check out the full article:
@@ -29,16 +40,6 @@ This article includes:
 - **Performance Testing**: Real-world tests and improvements.
 
 Don’t miss the chance to dive deeper into the project and enhance your understanding of antenna design!
-
-
-### Features
-
-- **DXF Files**: Detailed 2D design files for PCB fabrication.
-- **STL Files**: 3D models for printing the antenna support structures.
-- **Simulation Files**: Data and configurations from CST Studio used to optimize the antenna design.
-
-
-https://github.com/user-attachments/assets/b94765ee-239b-4bad-9be8-50f85a0472b5
 
 
 ## :rocket: Getting Started
