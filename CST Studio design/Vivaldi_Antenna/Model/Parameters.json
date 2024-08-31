@@ -1,0 +1,40 @@
+{
+    "parameters": [
+        {
+            "expr": "180",
+            "name": "ws",
+            "value": "180"
+        },
+        {
+            "expr": "200",
+            "name": "ls",
+            "value": "200"
+        },
+        {
+            "expr": "1.5",
+            "name": "hs",
+            "value": "1.5"
+        },
+        {
+            "expr": "87",
+            "name": "xr",
+            "value": "87"
+        },
+        {
+            "expr": "180",
+            "name": "yr",
+            "value": "180"
+        },
+        {
+            "expr": "0.035",
+            "name": "hc",
+            "value": "0.035"
+        },
+        {
+            "expr": "80",
+            "name": "r2",
+            "value": "80"
+        }
+    ],
+    "version": 1
+}

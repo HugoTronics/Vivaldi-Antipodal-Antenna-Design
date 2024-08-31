@@ -1,0 +1,13 @@
+{
+   "Author": "corsa",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Frequency Domain",
+   "Last Solver Type Abb": "f",
+   "Mesh Cells": "",
+   "Mesh Type": "Tetrahedral",
+   "Modeler Unique ID": "5:vivaldi final save.cst?54519cde6ac965db1374519b4fc56845?15756:numberofparameters=7:port=1>mode=1>zre=0>zim=0:::hc?hs?ls?r2?ws?xr?yr",
+   "ProjectVersion": "'# MWS Version: Version 2024.1 - Oct 16 2023 - ACIS 33.0.1 -",
+   "Results": "Frequency Domain: S-Parameter",
+   "Version": "3"
+}
