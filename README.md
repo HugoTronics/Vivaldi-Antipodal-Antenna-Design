@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/b94765ee-239b-4bad-9be8-50f85a0472b5
 For a detailed walkthrough of the project, including step-by-step design, simulation, and testing of the Vivaldi antipodal antenna, check out the full article:
 
 <p align="center">
-    <a href="https://hugotronics.github.io/diy-optimizing-4g/5g-reception-with-a-vivaldi-antipodal-antenna/#analysis-of-results" target="_blank">
+    <a href="https://hugotronics.github.io/diy-optimizing-4g/5g-reception-with-a-vivaldi-antipodal-antenna/" target="_blank">
         <img src="https://img.shields.io/badge/Read%20the%20Full%20Article-%230084ff.svg?style=for-the-badge&logo=read-the-docs" alt="Read the Full Article">
     </a>
 </p>
